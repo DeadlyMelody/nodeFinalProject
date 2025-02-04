@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Rock Legends Club",
+    "subtitle": "Celebrating the Greatest Rock Bands",
+    "description": "Join us in honoring the legends of rock music. Get exclusive updates, event invites, and connect with fellow fans.",
+    "phone": "053-987-6543",
+    "email": "info@rocklegends.com",
+    "address": {
+      "street": "Sunset Boulevard",
+      "city": "Los Angeles",
+      "zip": 90028,
+      "country": "USA",
+      "houseNumber": "101"
+    },
+    "bizNumber": 444444,
+    "userId": "67a152b415523ad4a18da572"
+  },
+  {
+    "title": "Marvel Superfans Hub",
+    "subtitle": "The Ultimate Marvel Fan Experience",
+    "description": "Dive into the Marvel Universe with us! Stay updated on new releases, exclusive content, and fan discussions.",
+    "phone": "054-123-4567",
+    "email": "contact@marvelfans.com",
+    "address": {
+      "street": "Avengers Tower",
+      "city": "New York",
+      "zip": 10010,
+      "country": "USA",
+      "houseNumber": "1"
+    },
+    "bizNumber": 555555,
+    "userId": "67a152b415523ad4a18da572"
+  },
+  {
+    "title": "Tokyo Ramen House",
+    "subtitle": "Authentic Japanese Ramen Experience",
+    "description": "Enjoy the rich flavors of Japan with our handcrafted ramen, fresh ingredients, and cozy ambiance.",
+    "phone": "052-789-6541",
+    "email": "info@tokyoramen.com",
+    "address": {
+      "street": "Shinjuku Street",
+      "city": "Tokyo",
+      "zip": 1600022,
+      "country": "Japan",
+      "houseNumber": "55"
+    },
+    "bizNumber": 666666,
+    "userId": "67a152b415523ad4a18da572"
+  }
+]

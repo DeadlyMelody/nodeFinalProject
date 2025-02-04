@@ -1,0 +1,74 @@
+[
+  {
+    "name": {
+      "first": "David",
+      "middle": "A.",
+      "last": "Cohen"
+    },
+    "image": {
+      "url": "",
+      "alt": ""
+    },
+    "isBusiness": true,
+    "isAdmin": true,
+    "email": "david.cohen@admin.com",
+    "password": "SecurePass!456",
+    "address": {
+      "street": "12 Tech Valley",
+      "city": "New York",
+      "state": "NY",
+      "zip": 10011,
+      "country": "USA",
+      "houseNumber": "12"
+    },
+    "phone": "052-345-6789"
+  },
+  {
+    "name": {
+      "first": "Emily",
+      "middle": "R.",
+      "last": "Stein"
+    },
+    "image": {
+      "url": "",
+      "alt": ""
+    },
+    "isBusiness": true,
+    "isAdmin": false,
+    "email": "emily.stein@gmail.com",
+    "password": "PassWord987!",
+    "address": {
+      "street": "456 Art Avenue",
+      "city": "Paris",
+      "state": "",
+      "zip": 75001,
+      "country": "France",
+      "houseNumber": "456"
+    },
+    "phone": "053-789-1234"
+  },
+  {
+    "name": {
+      "first": "Omar",
+      "middle": "T.",
+      "last": "Hassan"
+    },
+    "image": {
+      "url": "",
+      "alt": ""
+    },
+    "isBusiness": false,
+    "isAdmin": false,
+    "email": "omar.hassan@bizworld.com",
+    "password": "Business123@",
+    "address": {
+      "street": "78 Market Street",
+      "city": "Dubai",
+      "state": "",
+      "zip": 112233,
+      "country": "UAE",
+      "houseNumber": "78"
+    },
+    "phone": "054-654-3210"
+  }
+]

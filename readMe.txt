@@ -78,7 +78,8 @@ Ensure you have the following installed:
 | PATCH  | `/cards/:id` | Like/unlike a card (Authenticated users) |
 | PATCH  | `/cards/bizNumber/:id` | Change business number (Admin only) |
 
-in order to make a PUT request you need to send the validated --
+Updating Nested Objects
+When updating a nested object (e.g., name), you must send the entire object, not just the changed field. make sure if there are any required fields.
 
 ## Bonus Features
 1. **Admin Business Number Change**: Admins can change a business number, provided it is not already assigned to another business.
